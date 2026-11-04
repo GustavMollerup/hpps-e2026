@@ -24,10 +24,11 @@ assignments.
 
 **This course website** is used for handing out material.
 
-**Discord** can be used for asking questions. (invite link TBA). Remember to use
-the same name on Discord as on Absalon. You are not *required* or *expected* to
-use Discord. We continue to monitor the Absalon discussion forum, and course
-announcements are posted solely on Absalon.
+**Discord** can be used for asking questions. ([invite
+link](https://discord.gg/Vr4hDgFJFg)). Remember to use the same name on Discord
+as on Absalon. You are not *required* or *expected* to use Discord. We continue
+to monitor the Absalon discussion forum, and course announcements are posted
+solely on Absalon.
 
 **Absalon** is used for handing in assignments and for course
 announcements.
@@ -144,17 +145,17 @@ MacOS users will run into a problem by week 5 where they cannot run `gcc
 The teachers are
 
 * Troels Henriksen <athas@sigkill.dk>
-* Ivan Luiz Picoli
+* Ivan Luiz Picoli <ivpi@di.ku.dk>
 
 The TAs are:
 
-* Bastian Thomsen <bastianrthomsen@gmail.com>
+* Bastian Thomsen <bastian.thomsen@di.ku.dk>
 
-* Tobias Thornsen Røhling <tobias@maltevangen.dk>
+* Tobias Thornsen Røhling <tobias.rohling@di.ku.dk>
 
-* Mathias Nygaard Larsen <xbm145@alumni.ku.dk>
+* Mathias Nygaard Larsen <mathias.larsen@di.ku.dk>
 
-* Alexander Juel Vind <Alexander.j.vind@gmail.com>
+* Alexander Juel Vind <ajvi@di.ku.dk>
 
 ## Exam
 
