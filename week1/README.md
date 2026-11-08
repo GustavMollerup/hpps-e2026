@@ -120,7 +120,7 @@ CFLAGS?=-std=c11 -Wall -Werror -Wextra -pedantic
 ```
 
 Then when you add a program `foo`, add a rule to `Makefile` as
-follows:
+follows:  
 
 ```
 foo: foo.c
@@ -286,9 +286,9 @@ uint32_t uy = y;
 
 Consider whether each of the following statements hold:
 
-* `x < 0` => `((x*2) < 0)`
+* `x < 0` => `((x*2) < 0)` True
 * `ux >= 0`
-* `x & 7 == 7`  => `(x<<30) < 0`
+* `x & 7 == 7`  => `(x<<30) < 0` 
 * `ux > -1`
 * `x > y`   =>  `-x < -y`
 * `x * x >= 0`

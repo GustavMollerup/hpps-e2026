@@ -1,7 +1,12 @@
+CC?=cc
 CFLAGS = -Wall -Wextra  -pedantic -std=c11
 
 guess: guess.c
 	gcc $(CFLAGS) guess.c -o guess
+
+mynameis: mynameis.c
+	  gcc mynameis.c -o mynameis $(CFLAGS)
+
 
 roll: roll.c
 	gcc $(CFLAGS) roll.c -o roll
