@@ -18,7 +18,7 @@ Thursday:
 
 ## Slides
 
-TBA
+* [Troels' slides from Monday](1intro.pdf)
 
 ## Basic Unix Exercises
 
