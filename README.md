@@ -58,13 +58,13 @@ you prefer.
 
 * **Exercises:** 10:00-12:00
 
-  - 1-0-22, 1-0-26, 1-0-10, 1-0-18, 1-0-30 at the DIKU pavilion.
+  - 1-0-10, 1-0-18, 1-0-22, 1-0-26, 1-0-30 at the DIKU pavilion.
 
 * **Lecture:** 13:00-15:00 at Lille UP-1 at DIKU.
 
 * **Exercises:** 15:00-17:00
 
-  - 1-0-22, 1-0-26, 1-0-10, 1-0-18, 1-0-30 at the DIKU pavillon.
+  - 1-0-10, 1-0-18, 1-0-22, 1-0-26, 1-0-30 at the DIKU pavillon.
 
 **Note:** not all classrooms will be staffed. Details will be announced on Absalon.
 

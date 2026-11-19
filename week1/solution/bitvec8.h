@@ -10,9 +10,9 @@ bitvec8 bitvec8_from_int(unsigned int x);
 // Convert a bitvec8 value into an unsigned int value.
 unsigned int bitvec8_to_int(bitvec8 x);
 
-// prints a bitvec8 value.  
+// Prints a bitvec8 value.
 void bitvec8_print(bitvec8 v);
- 
+
 // Set bit at position i to 1
 bitvec8 bitvec8_set(bitvec8 v, int i);
 

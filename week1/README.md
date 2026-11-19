@@ -160,8 +160,7 @@ Write a C program `mynameis` that prints your name.
 ### 2. Input arguments in C
 
 Write a C program `repeatme` that given a string as argument, prints
-the string twice on separate lines.  (You can read section C.10.3 of Harris & Harris
-or maybe watch [the video on
+the string twice on separate lines.  (You can watch [the video on
 reading line
 arguments](https://sid.erda.dk/share_redirect/f8RgVGzlET/argv.mp4).)
 
@@ -194,7 +193,7 @@ This exercise is a preparation for A1.  You will
 (a) write a small C library for computing with bit vectors
 and (b) a test for each function defined in the library.  A library is
 a set of reusable definitions (types and functions) that can be used
-by applications.  
+by applications.
 
 Our library consists of a *header file* `bitvec8.h` and an *implementation file*
 `bitvec8.c`. In addition, we rely on a *test program* `test_bitvec8`
@@ -207,7 +206,7 @@ Use `make test` to compile the test program together with the library.
 
 #### bitvec8
 
-The library operates on the type `bitvec8` that represents an 8 bit-vector. 
+The library operates on the type `bitvec8` that represents an 8 bit-vector.
 
 **Bit Vector: `01010000`**
 
@@ -229,7 +228,7 @@ loop statements).
 1. Explain  the technique that is used in `bitvec8_from_int` to truncate the
 input number to 8 bits. Add a couple of additional test cases to
 `test_bitvec8_from_int`. Considering 'input partitioning', how many
-test cases are sufficient to    
+test cases are sufficient to
 
 2. Explain how iteration is implemented in `bitvec8_print`.
 Explain how testing is organized for this function. How is this different
@@ -245,12 +244,12 @@ to define the test cases.
 
 A test cases calls a function in the library, compares the obtained
 result with the expected result, and complains loudly if there is a
-discrepancy.  
+discrepancy.
 The recommended way to do this is to use the `assert` macro
 defined in the standard `<assert.h>` header.
 One downside of using `assert` is that while it will tell you that the
 comparison failed, it will not tell you which result was actually
-returned.  
+returned.
 
 
 ### Integer representation
