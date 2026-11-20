@@ -236,8 +236,8 @@ than the testing done for the other two functions?
 
 #### Writing code (functions and tests)
 
-Implement the remaining 7 functions defined and specified in `bitvec8.h` using techniques
-introduced in class ([1b.pdf](1b.pdf)).
+Implement the remaining 7 functions defined and specified in `bitvec8.h`, using
+the bit operations discussed in the lecture.
 
 Implement a test function for each of these functions. Use input partitioning
 to define the test cases.
